@@ -9,6 +9,21 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Signed updates for AwakeMac.</description>
         <language>en</language>
         <item>
+            <title>0.12.5</title>
+            <pubDate>Sun, 11 Oct 2026 00:12:49 +0530</pubDate>
+            <link>https://github.com/jswladitya/AwakeMac-Releases</link>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>0.12.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>AwakeMac 0.12.5</h2>
+<p>Session controls, license activation, and Settings now stay together in the menu-bar popover. No separate app windows open alongside it.</p>
+<p>Opening AwakeMac from Spotlight or Applications shows the popover, including after activation. Launch at login stays quiet. The panel cannot be detached into a separate window.</p>
+<p>Open Settings in the panel to switch between General, Closed Lid, and License. Use Back to return to your session.</p>
+<p>Requires macOS 14 or later and a valid AwakeMac license key. Supports Apple silicon and Intel.</p>
+]]></description>
+            <enclosure url="https://github.com/jswladitya/AwakeMac-Releases/releases/download/v0.12.5/AwakeMac-0.12.5.zip" length="2896797" type="application/octet-stream" sparkle:edSignature="s7R7JBNOCTdiLkM9wZCNhxuiZTpYzzUkghnVqjieZ7uycjD7ftEW02Vl7o+NRl4bclmeOWE+kI7D3B6d4nqfCw=="/>
+        </item>
+        <item>
             <title>0.12.2</title>
             <pubDate>Sat, 10 Oct 2026 22:54:14 +0530</pubDate>
             <link>https://github.com/jswladitya/AwakeMac-Releases</link>
@@ -49,6 +64,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: ec0z3z9Eraz47F3kA+T8GhsqP4wyd4y95ZvH+t543ar6AGluYfkur/6RiuIkUVDQBcUaE8I1QCddSjrDwjzhBQ==
-length: 3298
+edSignature: 0M6RCDtzuc35Yw+o9YiYr4HSk9BUYlDZD+cR0cmwxPeZgFz9PkYCEZaF05YuHpB9xoDTTflkVPfZUBvtA4ABCg==
+length: 4617
 -->
