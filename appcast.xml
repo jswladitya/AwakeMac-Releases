@@ -1,13 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-  <channel>
-    <title>AwakeMac Updates</title>
-    <link>https://github.com/jswladitya/AwakeMac-Releases</link>
-    <description>Signed updates for AwakeMac.</description>
-    <language>en</language>
-  </channel>
-</rss><!-- sparkle-signatures:
-edSignature: IdY2pNBIQjMYxcv7ci+jlBxaomLdX7zGeXPFfdiypLWZ6jQ9K9OqEq7j4orIBYcLdvpBzRLkZnjmq9R8PZWuDA==
-length: 599
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>AwakeMac Updates</title>
+        <link>https://github.com/jswladitya/AwakeMac-Releases</link>
+        <description>Signed updates for AwakeMac.</description>
+        <language>en</language>
+        <item>
+            <title>0.12.1</title>
+            <pubDate>Sat, 10 Oct 2026 22:36:15 +0530</pubDate>
+            <link>https://github.com/jswladitya/AwakeMac-Releases</link>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>0.12.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>AwakeMac 0.12.1 — Test release</h2>
+<p>The first signed and notarized test release for macOS 14 and later, with Apple silicon and Intel support.</p>
+<ul>
+  <li>Timer, Until, and Unlimited keep-awake sessions.</li>
+  <li>Optional closed-lid protection with configurable battery safeguards.</li>
+  <li>Daily update checks, signed update information, and installation when you choose.</li>
+  <li>Updates wait until keep-awake sessions and closed-lid protection have finished.</li>
+</ul>
+<p>A valid AwakeMac license key is required. Closed-lid behavior is still being tested across Mac models.</p>
+]]></description>
+            <enclosure url="https://github.com/jswladitya/AwakeMac-Releases/releases/download/v0.12.1/AwakeMac-0.12.1.zip" length="2914375" type="application/octet-stream" sparkle:edSignature="UbQEEv/aewvHzCBvkG2kVgGF9Gl5F6OJ+z0+B6DWb5tzuTqNKTK9hLJq0sCrz0gjh1Gj+bdM069Qc5xvdHd2DQ=="/>
+        </item>
+    </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: vCH4ieySJKs9xDp1Lz1G5yAidvWF6tZM9Lh5bbzb1sO1TSqccDQXdXDRKgYdi5btW4wjTq7/QqPuwHasfwf/Aw==
+length: 1964
 -->
