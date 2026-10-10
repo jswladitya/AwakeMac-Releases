@@ -9,6 +9,25 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Signed updates for AwakeMac.</description>
         <language>en</language>
         <item>
+            <title>0.12.2</title>
+            <pubDate>Sat, 10 Oct 2026 22:54:14 +0530</pubDate>
+            <link>https://github.com/jswladitya/AwakeMac-Releases</link>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>0.12.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>AwakeMac 0.12.2</h2>
+<p>Keep your Mac awake for as long as you need, with a native menu-bar interface and a simple drag-to-Applications installer.</p>
+<ul>
+  <li>Choose Timer, Until, or Unlimited sessions.</li>
+  <li>Enable optional closed-lid protection with configurable power and battery settings.</li>
+  <li>See a clear confirmation when closed-lid protection is active.</li>
+  <li>Receive signed updates through Sparkle; installation waits until your session has ended.</li>
+</ul>
+<p>Requires macOS 14 or later and a valid AwakeMac license key. Supports Apple silicon and Intel.</p>
+]]></description>
+            <enclosure url="https://github.com/jswladitya/AwakeMac-Releases/releases/download/v0.12.2/AwakeMac-0.12.2.zip" length="2914241" type="application/octet-stream" sparkle:edSignature="TwiWboQEKx8ktWxaYcmMCtD8zwO1iUpgJMd9xwHxwAltT50i+xXIWwR84hQUd8Ga1OvR40LvNlUXyaQgN8XPBw=="/>
+        </item>
+        <item>
             <title>0.12.1</title>
             <pubDate>Sat, 10 Oct 2026 22:36:15 +0530</pubDate>
             <link>https://github.com/jswladitya/AwakeMac-Releases</link>
@@ -30,6 +49,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: vCH4ieySJKs9xDp1Lz1G5yAidvWF6tZM9Lh5bbzb1sO1TSqccDQXdXDRKgYdi5btW4wjTq7/QqPuwHasfwf/Aw==
-length: 1964
+edSignature: ec0z3z9Eraz47F3kA+T8GhsqP4wyd4y95ZvH+t543ar6AGluYfkur/6RiuIkUVDQBcUaE8I1QCddSjrDwjzhBQ==
+length: 3298
 -->
