@@ -9,6 +9,25 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Signed updates for AwakeMac.</description>
         <language>en</language>
         <item>
+            <title>0.12.6</title>
+            <pubDate>Sun, 11 Oct 2026 11:46:33 +0530</pubDate>
+            <link>https://github.com/jswladitya/AwakeMac-Releases</link>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>0.12.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>AwakeMac 0.12.6</h2>
+<ul>
+  <li>A simpler license screen with a compact layout, one key field, and a clear Activate button.</li>
+  <li>Clearer first-time closed-lid setup: one relevant action at a time for setup, approval, or repair.</li>
+  <li>Centered session guidance with a brief horizontal nudge when a session cannot start. Respects Reduce Motion.</li>
+  <li>A clean settings icon in the menu-bar panel.</li>
+</ul>
+<p>Sessions, license activation, and Settings stay inside the menu-bar popover.</p>
+<p>Requires macOS 14 or later and a valid AwakeMac license key. Supports Apple silicon and Intel.</p>
+]]></description>
+            <enclosure url="https://github.com/jswladitya/AwakeMac-Releases/releases/download/v0.12.6/AwakeMac-0.12.6.zip" length="2902449" type="application/octet-stream" sparkle:edSignature="FLhDzdIy7X2Bfm8DL6XidgQn/2hI6Cg7n/QE8ZZ6ts7WJLKFbzKjw03T7rB6H11youZBIVqV3Oszbn1NGl+XAg=="/>
+        </item>
+        <item>
             <title>0.12.5</title>
             <pubDate>Sun, 11 Oct 2026 00:12:49 +0530</pubDate>
             <link>https://github.com/jswladitya/AwakeMac-Releases</link>
@@ -42,28 +61,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/jswladitya/AwakeMac-Releases/releases/download/v0.12.2/AwakeMac-0.12.2.zip" length="2914241" type="application/octet-stream" sparkle:edSignature="TwiWboQEKx8ktWxaYcmMCtD8zwO1iUpgJMd9xwHxwAltT50i+xXIWwR84hQUd8Ga1OvR40LvNlUXyaQgN8XPBw=="/>
         </item>
-        <item>
-            <title>0.12.1</title>
-            <pubDate>Sat, 10 Oct 2026 22:36:15 +0530</pubDate>
-            <link>https://github.com/jswladitya/AwakeMac-Releases</link>
-            <sparkle:version>16</sparkle:version>
-            <sparkle:shortVersionString>0.12.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>AwakeMac 0.12.1 — Test release</h2>
-<p>The first signed and notarized test release for macOS 14 and later, with Apple silicon and Intel support.</p>
-<ul>
-  <li>Timer, Until, and Unlimited keep-awake sessions.</li>
-  <li>Optional closed-lid protection with configurable battery safeguards.</li>
-  <li>Daily update checks, signed update information, and installation when you choose.</li>
-  <li>Updates wait until keep-awake sessions and closed-lid protection have finished.</li>
-</ul>
-<p>A valid AwakeMac license key is required. Closed-lid behavior is still being tested across Mac models.</p>
-]]></description>
-            <enclosure url="https://github.com/jswladitya/AwakeMac-Releases/releases/download/v0.12.1/AwakeMac-0.12.1.zip" length="2914375" type="application/octet-stream" sparkle:edSignature="UbQEEv/aewvHzCBvkG2kVgGF9Gl5F6OJ+z0+B6DWb5tzuTqNKTK9hLJq0sCrz0gjh1Gj+bdM069Qc5xvdHd2DQ=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: 0M6RCDtzuc35Yw+o9YiYr4HSk9BUYlDZD+cR0cmwxPeZgFz9PkYCEZaF05YuHpB9xoDTTflkVPfZUBvtA4ABCg==
-length: 4617
+edSignature: lmAoiHh69atIu4lOSvkk60JX5X9pJoiYuKX5SXKj1RWbWOcOfRBeNb1FLhh5MiMzkJbCoxk66OEOpE/qLcqAAA==
+length: 4628
 -->
