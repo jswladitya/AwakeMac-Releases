@@ -4,10 +4,28 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 -->
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>AwakeMac Updates</title>
-        <link>https://github.com/jswladitya/AwakeMac-Releases</link>
-        <description>Signed updates for AwakeMac.</description>
+        <title>Untiring Updates</title>
+        <link>https://untiring.app</link>
+        <description>Signed updates for Untiring.</description>
         <language>en</language>
+        <item>
+            <title>0.13.0</title>
+            <pubDate>Sun, 11 Oct 2026 12:57:54 +0530</pubDate>
+            <link>https://untiring.app</link>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Untiring 0.13.0</h2>
+<p>AwakeMac is now Untiring, with a new home at <a href="https://untiring.app">untiring.app</a>.</p>
+<ul>
+<li>The menu-bar panel, Settings, and license screen now use the Untiring name.</li>
+<li>Your saved preferences and existing license remain compatible.</li>
+<li>Sessions and optional closed-lid protection work as before.</li>
+</ul>
+<p>Requires macOS 14 or later and a valid license. Supports Apple silicon and Intel.</p>
+]]></description>
+            <enclosure url="https://github.com/jswladitya/AwakeMac-Releases/releases/download/v0.13.0/Untiring-0.13.0.zip" length="2902029" type="application/octet-stream" sparkle:edSignature="MNDodg4nN8ci3WFm7uf8eiyltLxmnS57mRL+erb3juII1e7MExG/EN7+YSN0NIygh5u9jF9ggbo8zRQieFUnDQ=="/>
+        </item>
         <item>
             <title>0.12.6</title>
             <pubDate>Sun, 11 Oct 2026 11:46:33 +0530</pubDate>
@@ -42,28 +60,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/jswladitya/AwakeMac-Releases/releases/download/v0.12.5/AwakeMac-0.12.5.zip" length="2896797" type="application/octet-stream" sparkle:edSignature="s7R7JBNOCTdiLkM9wZCNhxuiZTpYzzUkghnVqjieZ7uycjD7ftEW02Vl7o+NRl4bclmeOWE+kI7D3B6d4nqfCw=="/>
         </item>
-        <item>
-            <title>0.12.2</title>
-            <pubDate>Sat, 10 Oct 2026 22:54:14 +0530</pubDate>
-            <link>https://github.com/jswladitya/AwakeMac-Releases</link>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>0.12.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>AwakeMac 0.12.2</h2>
-<p>Keep your Mac awake for as long as you need, with a native menu-bar interface and a simple drag-to-Applications installer.</p>
-<ul>
-  <li>Choose Timer, Until, or Unlimited sessions.</li>
-  <li>Enable optional closed-lid protection with configurable power and battery settings.</li>
-  <li>See a clear confirmation when closed-lid protection is active.</li>
-  <li>Receive signed updates through Sparkle; installation waits until your session has ended.</li>
-</ul>
-<p>Requires macOS 14 or later and a valid AwakeMac license key. Supports Apple silicon and Intel.</p>
-]]></description>
-            <enclosure url="https://github.com/jswladitya/AwakeMac-Releases/releases/download/v0.12.2/AwakeMac-0.12.2.zip" length="2914241" type="application/octet-stream" sparkle:edSignature="TwiWboQEKx8ktWxaYcmMCtD8zwO1iUpgJMd9xwHxwAltT50i+xXIWwR84hQUd8Ga1OvR40LvNlUXyaQgN8XPBw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: lmAoiHh69atIu4lOSvkk60JX5X9pJoiYuKX5SXKj1RWbWOcOfRBeNb1FLhh5MiMzkJbCoxk66OEOpE/qLcqAAA==
-length: 4628
+edSignature: BZ+ZqroInX6G7bDyzE9LUszFqHQhYD90PTxsW+l0fdh+CV6A9aPKlwiTgIeVNLWherAWbBJnYL7KIqa405rWDw==
+length: 4434
 -->
