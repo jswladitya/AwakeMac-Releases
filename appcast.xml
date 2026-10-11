@@ -9,6 +9,24 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Signed updates for Untiring.</description>
         <language>en</language>
         <item>
+            <title>0.13.1</title>
+            <pubDate>Sun, 11 Oct 2026 13:59:50 +0530</pubDate>
+            <link>https://untiring.app</link>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>0.13.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Untiring 0.13.1</h2>
+<ul>
+<li>New sun artwork for the app icon, menu-bar panel, and installer.</li>
+<li>The menu bar shows the app icon and optional countdown, without the full app name.</li>
+<li>The panel and installer use the Untiring.app name.</li>
+</ul>
+<p>Your existing license, preferences, and session controls remain compatible.</p>
+<p>Requires macOS 14 or later and a valid license. Supports Apple silicon and Intel.</p>
+]]></description>
+            <enclosure url="https://github.com/jswladitya/AwakeMac-Releases/releases/download/v0.13.1/Untiring-0.13.1.zip" length="4506609" type="application/octet-stream" sparkle:edSignature="nBveswhSOdz6YuPKNZ+NOXZzjXdYkU+X9TNa0R4TqOm8uRz9PFJocg5fdu20HolCnd6TqWkAwF9SAwkxpZ1BCA=="/>
+        </item>
+        <item>
             <title>0.13.0</title>
             <pubDate>Sun, 11 Oct 2026 12:57:54 +0530</pubDate>
             <link>https://untiring.app</link>
@@ -45,24 +63,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 ]]></description>
             <enclosure url="https://github.com/jswladitya/AwakeMac-Releases/releases/download/v0.12.6/AwakeMac-0.12.6.zip" length="2902449" type="application/octet-stream" sparkle:edSignature="FLhDzdIy7X2Bfm8DL6XidgQn/2hI6Cg7n/QE8ZZ6ts7WJLKFbzKjw03T7rB6H11youZBIVqV3Oszbn1NGl+XAg=="/>
         </item>
-        <item>
-            <title>0.12.5</title>
-            <pubDate>Sun, 11 Oct 2026 00:12:49 +0530</pubDate>
-            <link>https://github.com/jswladitya/AwakeMac-Releases</link>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>0.12.5</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>AwakeMac 0.12.5</h2>
-<p>Session controls, license activation, and Settings now stay together in the menu-bar popover. No separate app windows open alongside it.</p>
-<p>Opening AwakeMac from Spotlight or Applications shows the popover, including after activation. Launch at login stays quiet. The panel cannot be detached into a separate window.</p>
-<p>Open Settings in the panel to switch between General, Closed Lid, and License. Use Back to return to your session.</p>
-<p>Requires macOS 14 or later and a valid AwakeMac license key. Supports Apple silicon and Intel.</p>
-]]></description>
-            <enclosure url="https://github.com/jswladitya/AwakeMac-Releases/releases/download/v0.12.5/AwakeMac-0.12.5.zip" length="2896797" type="application/octet-stream" sparkle:edSignature="s7R7JBNOCTdiLkM9wZCNhxuiZTpYzzUkghnVqjieZ7uycjD7ftEW02Vl7o+NRl4bclmeOWE+kI7D3B6d4nqfCw=="/>
-        </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: BZ+ZqroInX6G7bDyzE9LUszFqHQhYD90PTxsW+l0fdh+CV6A9aPKlwiTgIeVNLWherAWbBJnYL7KIqa405rWDw==
-length: 4434
+edSignature: dqbbLYgMESEgey3tQ8W9O3ITwx4v2U456fa1nTVRCsqpRmy/nclUGpjsdvyMqpM4VUyd68p53SBe5XQNqxX+Cw==
+length: 4264
 -->
