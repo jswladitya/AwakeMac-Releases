@@ -2,7 +2,7 @@
 
 Keep your Mac awake for as long as you need, right from the menu bar.
 
-[Download for Mac](https://github.com/jswladitya/AwakeMac-Releases/releases/download/v0.12.5/AwakeMac-0.12.5.dmg) · [Release notes](https://github.com/jswladitya/AwakeMac-Releases/releases/latest)
+[Download for Mac](https://github.com/jswladitya/AwakeMac-Releases/releases/download/v0.12.6/AwakeMac-0.12.6.dmg) · [Release notes](https://github.com/jswladitya/AwakeMac-Releases/releases/latest)
 
 ## Install
 
@@ -20,4 +20,4 @@ Requires **macOS 14 or later** and a valid AwakeMac license key. Supports **Appl
 
 For closed-lid mode, install and approve the helper in Settings. Keep the lid open until AwakeMac confirms **Active — You can close the lid**. A power adapter is required by default; battery use is opt-in.
 
-[ZIP download](https://github.com/jswladitya/AwakeMac-Releases/releases/download/v0.12.5/AwakeMac-0.12.5.zip)
+[ZIP download](https://github.com/jswladitya/AwakeMac-Releases/releases/download/v0.12.6/AwakeMac-0.12.6.zip)
