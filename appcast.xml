@@ -9,10 +9,10 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <description>Signed updates for WakeBee.</description>
         <language>en</language>
         <item>
-            <title>WakeBee 0.15.3 — one-time manual upgrade</title>
-            <link>https://github.com/jswladitya/WakeBee-Releases/releases/tag/v0.15.3</link>
-            <sparkle:version>30</sparkle:version>
-            <sparkle:shortVersionString>0.15.3</sparkle:shortVersionString>
+            <title>WakeBee 0.15.4 — one-time manual upgrade</title>
+            <link>https://github.com/jswladitya/WakeBee-Releases/releases/tag/v0.15.4</link>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>0.15.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<p>WakeBee has new Apple app and helper identifiers. This update needs a one-time manual installation.</p><p>Keep the lid open. In the old app, end your session, remove closed-lid setup under Settings → Closed Lid → Advanced, disable Launch at login, and quit before installing. Keep a backup until migration finishes.</p><p>Open the release page for the download and full migration instructions. Your preferences and Polar activation can migrate; helper and login approvals must be set up again.</p>]]></description>
         </item>
@@ -73,6 +73,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: oxeaWr8sbooNFfuvvWtXH1A5dd7xGM3IyLPYr6AntpHKNiKmdzXwjlZF5PVN10bDjPUTfZ9X1m5ibHsyEwEfDg==
+edSignature: 2kml6BoDLurF6XDgYlosmPGRvLjoAZempcph57TTaMM9z7wW42Ft7KHVYoC8MsSMl34diMzwLdcNMosiaeE0CA==
 length: 5501
 -->
