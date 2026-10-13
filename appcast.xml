@@ -4,9 +4,9 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 -->
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Untiring Updates</title>
-        <link>https://untiring.app</link>
-        <description>Signed updates for Untiring.</description>
+        <title>WakeBee Updates</title>
+        <link>https://www.wakebee.app</link>
+        <description>Signed updates for WakeBee.</description>
         <language>en</language>
         <item>
             <title>0.14.0</title>
@@ -65,6 +65,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: C7qBwhhRkMcu1Kr53EZMvb+FpFrlEsqlER4FohhMCOzJGJtIxhKF6KnIpKY3siwYPn1iWCKWH/ZZ380uqZTJCg==
-length: 4546
+edSignature: bVwdFIoqUp+7T94eFlQ6klkD+v1HjT9Lsep1DWDXEUaLB/6h6HMs4C44QqShFD7oLZUl8HtFX7JAgeXSirpACg==
+length: 4547
 -->
